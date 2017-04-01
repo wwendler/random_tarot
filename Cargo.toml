@@ -1,0 +1,7 @@
+[package]
+name = "random_tarot"
+version = "0.1.0"
+authors = ["wwendler (Willis Wendler) <willis.wendler@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
